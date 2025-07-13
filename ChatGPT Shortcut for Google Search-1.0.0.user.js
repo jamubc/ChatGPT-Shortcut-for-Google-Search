@@ -1,8 +1,8 @@
 // ==UserScript==
-// @name         ChatGPT Shortcut for Google Search
+// @name         AI Shortcut for Google Search (ChatGPT & Claude)
 // @namespace    http://tampermonkey.net/
-// @version      1.0.0
-// @description  Add a ChatGPT button inside the Google search bar container
+// @version      1.1.0
+// @description  Add ChatGPT and Claude buttons inside the Google search bar container
 // @author       jamubc
 // @match        https://www.google.com/search*
 // @grant        none
